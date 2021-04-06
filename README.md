@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GelsonCaxopa
-- 👀 I’m interested in learning and network
+
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on community
 
